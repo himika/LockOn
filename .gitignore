@@ -1,14 +1,10 @@
 *.suo
 *.user
 *.sln.docstates
-[Dd]ebug/
-[Rr]elease/
-plugin_example/[Dd]ebug/
-plugin_example/[Rr]elease/
-skse/common/[Dd]ebug/
-skse/common/[Rr]elease/
-skse/skse/[Dd]ebug/
-skse/skse/[Rr]elease/
+dll/[Dd]ebug/
+dll/[Rr]elease/
+dll/src/[Dd]ebug/
+dll/src/[Rr]elease/
 
 *.swf
 swf/greensock-as2/*
